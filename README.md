@@ -1,8 +1,9 @@
-TDT4110
+# TDT4110
 Informasjonsteknologi, grunnkurs [autumn 2015]
 
+Repository include source files for this course.
 
-Faglig innhold
+# Faglig innhold
 
 Emnet består at to deler: IKT-teori (1/3) og grunnleggende prosedyreorientert programmering i Python (2/3). 
 
