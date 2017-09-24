@@ -1,7 +1,7 @@
 # TDT4110
 Informasjonsteknologi, grunnkurs [autumn 2015]
 
-Repository include source files for this course.
+Repository include assignments for this course. Such as: Simple Pythion applications based on different tasks
 
 # Faglig innhold
 
