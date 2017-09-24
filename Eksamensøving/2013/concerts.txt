@@ -1,8 +1,0 @@
-The Rectorats;8;720.0;Nils Nilsen
-The Rectorats;4;360.0;Are Nilsen
-Gloshaugkameratene;1;150.0;Jens Nilsen
-Gloshaugkameratene;42;5670.0;Test Nilsen
-The aller beste;3;750.0;King Nilsen
-The aller beste;5;1125.0;Ole Nilsen
-The aller beste;1;250.0;Trond Nilsen
-The aller beste;10;2250.0;Trond Nilsen
